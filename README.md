@@ -1,6 +1,6 @@
 # SharedExperiences - Split Bills Like a Pro! 💰
 
-*The expense sharing app that makes you the bill splitter with your friends, family, and travel companions.*
+*The expense sharing app that makes you the bill splitter among your friends, family, and travel companions.*
 
 ---
 
