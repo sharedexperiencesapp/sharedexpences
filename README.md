@@ -97,7 +97,7 @@ No fees, no subscriptions. Just download and start sharing expenses!
 ## 📞 Contact Us
 
 - **Email**: sharedexperiencesapp@gmail.com
-- **Website**: [www.sharedexperiences.app](https://github.com/sharedexperiencesapp/sharedexperiences/edit/main/README.md]
+- **Website**: [https://github.com/sharedexperiencesapp/sharedexperiences/edit/main/README.md]
 
 ---
 
