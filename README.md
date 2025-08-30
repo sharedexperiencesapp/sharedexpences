@@ -1,4 +1,4 @@
-# SharedExperiences - Don't Split the Bills add them to the list of your Shared Experiences! 
+# Don't Split the Bills add them to the list of your Shared Experiences! 
 *The expense sharing app that makes you the bill splitter among your friends, family, and travel companions.*
 
 ---
