@@ -3,9 +3,9 @@
 
 ---
 
-## 🌟 Why Choose SharedExperiences?
+## 🌟 Why Choose SharedExpenses?
 
-Tired of the awkward "who owes what" conversations? SharedExperiences transforms expense sharing from a chore into a seamless, beautiful experience. Whether you're planning a group vacation, sharing household expenses, or organizing a dinner party, our app ensures balance tracking and expense management.
+Tired of the awkward "who owes what" conversations? SharedExpenses transforms expense sharing from a chore into a seamless, beautiful experience. Whether you're planning a group vacation, sharing household expenses, or organizing a dinner party, our app ensures balance tracking and expense management.
 
 ---
 
@@ -90,16 +90,16 @@ No fees, no subscriptions. Just download and start sharing expenses!
 ## 💬 Support & Community
 
 - **Regular Updates** - New features and improvements every month
-- **Feedback Welcome** - Your suggestions help shape the future of SharedExperiences
+- **Feedback Welcome** - Your suggestions help shape the future of SharedExpenses
 
 ---
 
 ## 📞 Contact Us
 
-- **Email**: sharedexperiencesapp@gmail.com
-- **Website**: [https://github.com/sharedexperiencesapp/sharedexperiences/edit/main/README.md]
+- **Email**: SharedExpensesapp@gmail.com
+- **Website**: [https://github.com/SharedExpensesapp/SharedExpenses/edit/main/README.md]
 
 ---
 
-*SharedExperiences - Making expense sharing beautiful, simple, and stress-free.*
+*SharedExpenses - Making expense sharing beautiful, simple, and stress-free.*
 
